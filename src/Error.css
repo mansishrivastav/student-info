@@ -1,0 +1,17 @@
+.error-container{
+    background-color: #c6c7cb;
+    height: 93vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.error-container h4{
+    font-size:172px;
+    color: #57606f;
+}
+.error-container h5{font-size: 72px;color: #484d55;}
+.error-container p{
+    margin-bottom: -5px;
+    color: #6d6f74;
+}
